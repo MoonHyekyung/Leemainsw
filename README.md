@@ -1,5 +1,6 @@
 ### Hi there 👋
-안녕하세요. 풀스택 개발자를 꿈꾸는 주니어 개발자 이예슬입니다! 
+안녕하세요!  
+풀스택 개발자를 꿈꾸는 주니어 개발자 이예슬입니다! 🌵
 
 <!--
 **Leemainsw/Leemainsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
