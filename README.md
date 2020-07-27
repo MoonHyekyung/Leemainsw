@@ -1,4 +1,4 @@
-### Hello👋 My name is Minsu and I lived in Republic of Korea.<br/>
+### Hello👋 My name is Yesul and I lived in Republic of Korea.<br/>
 
 [![Github](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://alstn2468.github.io/)](https://github.com/Leemainsw) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/alstn2468)](https://www.facebook.com/profile.php?id=100012066763447)
 
