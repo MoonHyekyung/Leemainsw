@@ -6,8 +6,8 @@
 - 💻 Junior Developers Interested in Web 
 - ⏰ I think **enthusiasm** is my biggest strength.
 - 📝 I mainly use Nodejs and HTML and I am interested in new technology.
-- 🙌 I enjoy the study new technology.
-- 🌈 My dream is to develop a meaningful service that many people can use.
+- 🐰 I enjoy the study new technology.
+- ⭐ My dream is to develop a meaningful service that many people can use.
 
 **Languages and Tools**  
 
