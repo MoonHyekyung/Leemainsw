@@ -19,5 +19,6 @@
 <code><img height="20" src="https://miro.medium.com/max/750/1*xLKFtlXiTPif_hTAIlXRjw.jpeg"></code>
 <code><img height="20" width="20" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leemainsw&layout=compact)](https://github.com/Leemainsw/Leemainsw)![Leemainsw's github stats](https://github-readme-stats.vercel.app/api?username=Leemainsw&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leemainsw&layout=compact)](https://github.com/Leemainsw/Leemainsw)   
+![Leemainsw's github stats](https://github-readme-stats.vercel.app/api?username=Leemainsw&show_icons=true)
 
