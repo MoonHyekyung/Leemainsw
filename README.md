@@ -20,6 +20,7 @@
 <code><img height="20" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDGM2Y%2FbtqwIi3c40a%2FtbVlnqOBH5ovawaVBCmEF0%2Fimg.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/750/1*xLKFtlXiTPif_hTAIlXRjw.jpeg"></code>
 <code><img height="20" width="20" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"></code>
+<code><img height="20" width="20" src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leemainsw&layout=compact)](https://github.com/Leemainsw/Leemainsw)   
 ![Leemainsw's github stats](https://github-readme-stats.vercel.app/api?username=Leemainsw&show_icons=true)
